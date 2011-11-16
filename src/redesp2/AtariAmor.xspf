@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist version="1" xmlns="http://xspf.org/ns/0/">
+ <trackList>
+  <track>
+   <location>/home/cgomez/html/Biblioteca/CeroUno/01 Atari Amor.mp3</location>
+   <title>Atari Amor</title>
+   <creator>Cerouno</creator>
+   <album>Atari Amor</album>
+   <extension application="http://www.rhythmbox.org">
+     <genre>Pop</genre>
+   </extension>
+  </track>
+  <track>
+   <location>/home/cgomez/html/Biblioteca/CeroUno/02 Soy.mp3</location>
+   <title>Soy</title>
+   <creator>Cerouno</creator>
+   <album>Atari Amor</album>
+   <extension application="http://www.rhythmbox.org">
+     <genre>Pop</genre>
+   </extension>
+  </track>
+  <track>
+   <location>/home/cgomez/html/Biblioteca/CeroUno/03 Misil.mp3</location>
+   <title>Misil</title>
+   <creator>Cerouno</creator>
+   <album>Atari Amor</album>
+   <extension application="http://www.rhythmbox.org">
+     <genre>Pop</genre>
+   </extension>
+  </track>
+  <track>
+   <location>/home/cgomez/html/Biblioteca/CeroUno/04 Espina.mp3</location>
+   <title>Espina</title>
+   <creator>Cerouno</creator>
+   <album>Atari Amor</album>
+   <extension application="http://www.rhythmbox.org">
+     <genre>Pop</genre>
+   </extension>
+  </track>
+  <track>
+   <location>/home/cgomez/html/Biblioteca/CeroUno/05 Espontaneo.mp3</location>
+   <title>Espontáneo</title>
+   <creator>Cerouno</creator>
+   <album>Atari Amor</album>
+   <extension application="http://www.rhythmbox.org">
+     <genre>Pop</genre>
+   </extension>
+  </track>
+  <track>
+   <location>/home/cgomez/html/Biblioteca/CeroUno/06 Robot.mp3</location>
+   <title>Robot</title>
+   <creator>Cerouno</creator>
+   <album>Atari Amor</album>
+   <extension application="http://www.rhythmbox.org">
+     <genre>Pop</genre>
+   </extension>
+  </track>
+  <track>
+   <location>/home/cgomez/html/Biblioteca/CeroUno/07 Heroe.mp3</location>
+   <title>Héroe</title>
+   <creator>Cerouno</creator>
+   <album>Atari Amor</album>
+   <extension application="http://www.rhythmbox.org">
+     <genre>Pop</genre>
+   </extension>
+  </track>
+  <track>
+   <location>/home/cgomez/html/Biblioteca/CeroUno/08 Altura.mp3</location>
+   <title>Altura</title>
+   <creator>Cerouno</creator>
+   <album>Atari Amor</album>
+   <extension application="http://www.rhythmbox.org">
+     <genre>Pop</genre>
+   </extension>
+  </track>
+  <track>
+   <location>/home/cgomez/html/Biblioteca/CeroUno/09 No entiendes.mp3</location>
+   <title>No entiendes</title>
+   <creator>Cerouno</creator>
+   <album>Atari Amor</album>
+   <extension application="http://www.rhythmbox.org">
+     <genre>Pop</genre>
+   </extension>
+  </track>
+  <track>
+   <location>/home/cgomez/html/Biblioteca/CeroUno/10 Refresco.mp3</location>
+   <title>Refresco</title>
+   <creator>Cerouno</creator>
+   <album>Atari Amor</album>
+   <extension application="http://www.rhythmbox.org">
+     <genre>Pop</genre>
+   </extension>
+  </track>
+  <track>
+   <location>/home/cgomez/html/Biblioteca/CeroUno/11 Mente sintetizador.mp3</location>
+   <title>Mente sintetizador</title>
+   <creator>Cerouno</creator>
+   <album>Atari Amor</album>
+   <extension application="http://www.rhythmbox.org">
+     <genre>Pop</genre>
+   </extension>
+  </track>
+  <track>
+   <location>/home/cgomez/html/Biblioteca/CeroUno/12 Valvula.mp3</location>
+   <title>Válvula</title>
+   <creator>Cerouno</creator>
+   <album>Atari Amor</album>
+   <extension application="http://www.rhythmbox.org">
+     <genre>Pop</genre>
+   </extension>
+  </track>
+  <track>
+   <location>/home/cgomez/html/Biblioteca/CeroUno/13 Estelar.mp3</location>
+   <title>Estelar</title>
+   <creator>Cerouno</creator>
+   <album>Atari Amor</album>
+   <extension application="http://www.rhythmbox.org">
+     <genre>Pop</genre>
+   </extension>
+  </track>
+ </trackList>
+</playlist>
