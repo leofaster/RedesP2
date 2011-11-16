@@ -13,17 +13,25 @@ public String location;
 public String title;
 public String creator;
 public String album;
-public String extApp;
 public String genre;
+public String ip;
+public String id;
 
-    public cancion(String location, String title, String creator, String album, String extApp, String genre) {
+    public cancion() {
+    }
+
+    public cancion(String location, String title, String creator, String album, String genre, String ip, String id) {
         this.location = location;
         this.title = title;
         this.creator = creator;
         this.album = album;
-        this.extApp = extApp;
         this.genre = genre;
+        this.ip = ip;
+        this.id = id;
     }
+
+
+  
 
     public String getAlbum() {
         return album;
@@ -41,13 +49,6 @@ public String genre;
         this.creator = creator;
     }
 
-    public String getExtApp() {
-        return extApp;
-    }
-
-    public void setExtApp(String extApp) {
-        this.extApp = extApp;
-    }
 
     public String getGenre() {
         return genre;
@@ -73,11 +74,20 @@ public String genre;
         this.title = title;
     }
 
+    public void setId(String id) {
+        this.id = id;
+    }
+
+    public void setIp(String ip) {
+        this.ip = ip;
+    }
+    
+    
+
     @Override
     public String toString() {
         return "cancion {" + "location=" + location + ", title=" + title +
-                ", creator=" + creator + ", album=" + album + ", extApp=" + 
-                extApp + ", genre=" + genre + "}" ;
+                ", creator=" + creator + ", album=" + album + ", genre=" + genre + "}" ;
     }
 
 
