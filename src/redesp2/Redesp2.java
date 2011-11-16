@@ -4,7 +4,7 @@
  */
 package redesp2;
 
-import java.io.Console;
+import corejava.*;
 
 /**
  *
@@ -23,13 +23,13 @@ public class Redesp2 {
         String directorio;
         String nodo;
     for (int i=0 ; i < args.length; i++){
-       if ( args[i].equals ("-p")) {
+       if ( args[i].equals ("-p")| args[i].equals("-P")) {
            puerto = Integer.parseInt(args[i+1]) ;
        }
-       if (args[i].equals("-n")){
+       if (args[i].equals("-n") | args[i].equals("-N")){
            nodo = args[i+1];
        }
-       if (args[i].equals("-b")){
+       if (args[i].equals("-b") | args[i].equals("-B")){
            directorio = args[i+1];
        }
     }
@@ -46,10 +46,20 @@ public class Redesp2 {
     System.out.println(" - Preciona Q ");
     System.out.println("    - Para salir del programa ");
     
-    BufferedReader reader;
-    reader = new BufferedReader(new InputStreamReader(System.in));
-    name = reader.readLine();
+    String letra = Console.readString("Seleccion :");
 
+    if (letra.equals("C") | letra.equals("c")) {
+     System.out.println("Entro en C");  
+     
+     
+    }else if (letra.equals("d")| letra.equals("D")){
+     System.out.println("Entro en d");   
+    }else if (letra.equals("A")| letra.equals("a")){
+        System.out.println("Entro en a");
+    }else if (letra.equals("Q")| letra.equals("q")){
+        System.out.println("Entro en q");
+        salida =true;
+    }
     }
     
     
