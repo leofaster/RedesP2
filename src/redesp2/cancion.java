@@ -16,6 +16,25 @@ public String album;
 public String genre;
 public String ip;
 public String id;
+public String track;
+public int Year;
+
+    public int getYear() {
+        return Year;
+    }
+
+    public void setYear(int Year) {
+        this.Year = Year;
+    }
+
+
+    public String getTrack() {
+        return track;
+    }
+
+    public void setTrack(String track) {
+        this.track = track;
+    }
 
     public cancion() {
     }

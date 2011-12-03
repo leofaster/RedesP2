@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<playlist xmlns="http://xspf.org/ns/0/" version="">
+  <title>Playlist de C:/adele</title>
+  <date>2011-12-03T18:43:35.9</date>
+  <trackList>
+    <track>
+      <location>C:\adele\Adele - 01 - Daydreams.mp3</location>
+      <identifier>2008</identifier>
+      <title>Daydreamer</title>
+      <creator>Adele</creator>
+      <annotation/>
+      <album>19 [Bonus Tracks]</album>
+      <meta rel="Genre">R&amp;B/Soul</meta>
+      <extension application="Track">1</extension>
+    </track>
+    <track>
+      <location>C:\adele\Adele - 02 - Best For Last.mp3</location>
+      <identifier>2008</identifier>
+      <title>Best For Last</title>
+      <creator>Adele</creator>
+      <annotation/>
+      <album>19 [Bonus Tracks]</album>
+      <meta rel="Genre">R&amp;B/Soul</meta>
+      <extension application="Track">2</extension>
+    </track>
+    <track>
+      <location>C:\adele\Adele - 03 - Chasing Pavements.mp3</location>
+      <identifier>2008</identifier>
+      <title>Chasing Pavements</title>
+      <creator>Adele</creator>
+      <annotation/>
+      <album>19 [Bonus Tracks]</album>
+      <meta rel="Genre">R&amp;B/Soul</meta>
+      <extension application="Track">3</extension>
+    </track>
+    <track>
+      <location>C:\adele\Adele - 04 - Cold Shoulder.mp3</location>
+      <identifier>2008</identifier>
+      <title>Cold Shoulder</title>
+      <creator>Adele</creator>
+      <annotation/>
+      <album>19 [Bonus Tracks]</album>
+      <meta rel="Genre">R&amp;B/Soul</meta>
+      <extension application="Track">4</extension>
+    </track>
+    <track>
+      <location>C:\adele\Adele - 05 - Crazy For You.mp3</location>
+      <identifier>2008</identifier>
+      <title>Crazy For You</title>
+      <creator>Adele</creator>
+      <annotation/>
+      <album>19 [Bonus Tracks]</album>
+      <meta rel="Genre">R&amp;B/Soul</meta>
+      <extension application="Track">5</extension>
+    </track>
+    <track>
+      <location>C:\adele\Adele - 06 - Melt My Heart To Stone.mp3</location>
+      <identifier>2008</identifier>
+      <title>Melt My Heart To Stone</title>
+      <creator>Adele</creator>
+      <annotation/>
+      <album>19 [Bonus Tracks]</album>
+      <meta rel="Genre">R&amp;B/Soul</meta>
+      <extension application="Track">6</extension>
+    </track>
+    <track>
+      <location>C:\adele\Adele - 07 - First Love.mp3</location>
+      <identifier>2008</identifier>
+      <title>First Love</title>
+      <creator>Adele</creator>
+      <annotation/>
+      <album>19 [Bonus Tracks]</album>
+      <meta rel="Genre">R&amp;B/Soul</meta>
+      <extension application="Track">7</extension>
+    </track>
+    <track>
+      <location>C:\adele\Adele - 08 - Right As Rain.mp3</location>
+      <identifier>2008</identifier>
+      <title>Right As Rain</title>
+      <creator>Adele</creator>
+      <annotation/>
+      <album>19 [Bonus Tracks]</album>
+      <meta rel="Genre">R&amp;B/Soul</meta>
+      <extension application="Track">8</extension>
+    </track>
+    <track>
+      <location>C:\adele\Adele - 09 - Make You Feel My Love.mp3</location>
+      <identifier>2008</identifier>
+      <title>Make You Feel My Love</title>
+      <creator>Adele</creator>
+      <annotation/>
+      <album>19 [Bonus Tracks]</album>
+      <meta rel="Genre">R&amp;B/Soul</meta>
+      <extension application="Track">9</extension>
+    </track>
+    <track>
+      <location>C:\adele\Adele - 10 - My Same.mp3</location>
+      <identifier>2008</identifier>
+      <title>My Same</title>
+      <creator>Adele</creator>
+      <annotation/>
+      <album>19 [Bonus Tracks]</album>
+      <meta rel="Genre">R&amp;B/Soul</meta>
+      <extension application="Track">10</extension>
+    </track>
+    <track>
+      <location>C:\adele\Adele - 11 - Tired.mp3</location>
+      <identifier>2008</identifier>
+      <title>Tired</title>
+      <creator>Adele</creator>
+      <annotation/>
+      <album>19 [Bonus Tracks]</album>
+      <meta rel="Genre">R&amp;B/Soul</meta>
+      <extension application="Track">11</extension>
+    </track>
+    <track>
+      <location>C:\adele\Adele - 12 - Hometown Glory.mp3</location>
+      <identifier>2008</identifier>
+      <title>Hometown Glory</title>
+      <creator>Adele</creator>
+      <annotation/>
+      <album>19 [Bonus Tracks]</album>
+      <meta rel="Genre">R&amp;B/Soul</meta>
+      <extension application="Track">12</extension>
+    </track>
+    <track>
+      <location>C:\adele\Adele - 13 - Right As Rain (Live).mp3</location>
+      <identifier>2008</identifier>
+      <title>Right As Rain</title>
+      <creator>Adele</creator>
+      <annotation/>
+      <album>08-19 Bonus</album>
+      <meta rel="Genre">R&amp;B/Soul</meta>
+      <extension application="Track">1</extension>
+    </track>
+    <track>
+      <location>C:\adele\Adele - 14 - Melt My Heart To Stone (Live).mp3</location>
+      <identifier>2008</identifier>
+      <title>Melt My Heart To Stone</title>
+      <creator>Adele</creator>
+      <annotation/>
+      <album>08-19 Bonus</album>
+      <meta rel="Genre">R&amp;B/Soul</meta>
+      <extension application="Track">2</extension>
+    </track>
+    <track>
+      <location>C:\adele\Adele - 15 - My Same (Live).mp3</location>
+      <identifier>2008</identifier>
+      <title>My Same</title>
+      <creator>Adele</creator>
+      <annotation/>
+      <album>08-19 Bonus</album>
+      <meta rel="Genre">R&amp;B/Soul</meta>
+      <extension application="Track">3</extension>
+    </track>
+    <track>
+      <location>C:\adele\Adele - 16 - That's It, I Quit, I'm Moving On (Live).mp3</location>
+      <identifier>2008</identifier>
+      <title>That's It, I Quit, I'm Moving On</title>
+      <creator>Adele</creator>
+      <annotation/>
+      <album>08-19 Bonus</album>
+      <meta rel="Genre">R&amp;B/Soul</meta>
+      <extension application="Track">4</extension>
+    </track>
+    <track>
+      <location>C:\adele\Adele - 17 - Chasing Pavements (Live).mp3</location>
+      <identifier>2008</identifier>
+      <title>Chasing Pavements</title>
+      <creator>Adele</creator>
+      <annotation/>
+      <album>08-19 Bonus</album>
+      <meta rel="Genre">R&amp;B/Soul</meta>
+      <extension application="Track">5</extension>
+    </track>
+    <track>
+      <location>C:\adele\Adele - 21\01 Rolling in the Deep.mp3</location>
+      <identifier>2011</identifier>
+      <title>Rolling in the Deep</title>
+      <creator>Adele</creator>
+      <annotation/>
+      <album>21</album>
+      <meta rel="Genre">Pop</meta>
+      <extension application="Track">01/17</extension>
+    </track>
+    <track>
+      <location>C:\adele\Adele - 21\02 Rumour Has It.mp3</location>
+      <identifier>2011</identifier>
+      <title>Rumour Has It</title>
+      <creator>Adele</creator>
+      <annotation/>
+      <album>21</album>
+      <meta rel="Genre">Pop</meta>
+      <extension application="Track">02/17</extension>
+    </track>
+    <track>
+      <location>C:\adele\Adele - 21\03 Turning Tables.mp3</location>
+      <identifier>2011</identifier>
+      <title>Turning Tables</title>
+      <creator>Adele</creator>
+      <annotation/>
+      <album>21</album>
+      <meta rel="Genre">Pop</meta>
+      <extension application="Track">03/17</extension>
+    </track>
+    <track>
+      <location>C:\adele\Adele - 21\04 Don't You Remember.mp3</location>
+      <identifier>2011</identifier>
+      <title>Don't You Remember</title>
+      <creator>Adele</creator>
+      <annotation/>
+      <album>21</album>
+      <meta rel="Genre">Pop</meta>
+      <extension application="Track">04/17</extension>
+    </track>
+    <track>
+      <location>C:\adele\Adele - 21\05 Set Fire to the Rain.mp3</location>
+      <identifier>2011</identifier>
+      <title>Set Fire to the Rain</title>
+      <creator>Adele</creator>
+      <annotation/>
+      <album>21</album>
+      <meta rel="Genre">Pop</meta>
+      <extension application="Track">05/17</extension>
+    </track>
+    <track>
+      <location>C:\adele\Adele - 21\06 He Won't Go.mp3</location>
+      <identifier>2011</identifier>
+      <title>He Won't Go</title>
+      <creator>Adele</creator>
+      <annotation/>
+      <album>21</album>
+      <meta rel="Genre">Pop</meta>
+      <extension application="Track">06/17</extension>
+    </track>
+    <track>
+      <location>C:\adele\Adele - 21\07 Take It All.mp3</location>
+      <identifier>2011</identifier>
+      <title>Take It All</title>
+      <creator>Adele</creator>
+      <annotation/>
+      <album>21</album>
+      <meta rel="Genre">Pop</meta>
+      <extension application="Track">07/17</extension>
+    </track>
+    <track>
+      <location>C:\adele\Adele - 21\08 I'll Be Waiting.mp3</location>
+      <identifier>2011</identifier>
+      <title>I'll Be Waiting</title>
+      <creator>Adele</creator>
+      <annotation/>
+      <album>21</album>
+      <meta rel="Genre">Pop</meta>
+      <extension application="Track">08/17</extension>
+    </track>
+    <track>
+      <location>C:\adele\Adele - 21\09 One and Only.mp3</location>
+      <identifier>2011</identifier>
+      <title>One and Only</title>
+      <creator>Adele</creator>
+      <annotation/>
+      <album>21</album>
+      <meta rel="Genre">Pop</meta>
+      <extension application="Track">09/17</extension>
+    </track>
+    <track>
+      <location>C:\adele\Adele - 21\10 Lovesong.mp3</location>
+      <identifier>2011</identifier>
+      <title>Lovesong</title>
+      <creator>Adele</creator>
+      <annotation/>
+      <album>21</album>
+      <meta rel="Genre">Pop</meta>
+      <extension application="Track">10/17</extension>
+    </track>
+    <track>
+      <location>C:\adele\Adele - 21\11 Someone Like You.mp3</location>
+      <identifier>2011</identifier>
+      <title>Someone Like You</title>
+      <creator>Adele</creator>
+      <annotation/>
+      <album>21</album>
+      <meta rel="Genre">Pop</meta>
+      <extension application="Track">11/17</extension>
+    </track>
+    <track>
+      <location>C:\adele\Adele - 21\12 I Found a Boy (Bonus Track).mp3</location>
+      <identifier>2011</identifier>
+      <title>I Found a Boy (Bonus Track)</title>
+      <creator>Adele</creator>
+      <annotation/>
+      <album>21</album>
+      <meta rel="Genre">Pop</meta>
+      <extension application="Track">12/17</extension>
+    </track>
+    <track>
+      <location>C:\adele\Adele - 21\13 Turning Tables (Live Acoustic).mp3</location>
+      <identifier>2011</identifier>
+      <title>Turning Tables (Live Acoustic)</title>
+      <creator>Adele</creator>
+      <annotation/>
+      <album>21</album>
+      <meta rel="Genre">Pop</meta>
+      <extension application="Track">13/17</extension>
+    </track>
+    <track>
+      <location>C:\adele\Adele - 21\14 Don't You Remember (Live Acoustic).mp3</location>
+      <identifier>2011</identifier>
+      <title>Don't You Remember (Live Acoustic)</title>
+      <creator>Adele</creator>
+      <annotation/>
+      <album>21</album>
+      <meta rel="Genre">Pop</meta>
+      <extension application="Track">14/17</extension>
+    </track>
+    <track>
+      <location>C:\adele\Adele - 21\15 Someone Like You (Live Acoustic).mp3</location>
+      <identifier>2011</identifier>
+      <title>Someone Like You (Live Acoustic)</title>
+      <creator>Adele</creator>
+      <annotation/>
+      <album>21</album>
+      <meta rel="Genre">Pop</meta>
+      <extension application="Track">15/17</extension>
+    </track>
+    <track>
+      <location>C:\adele\Adele - 21\16 If It Hadn't Been For Love.mp3</location>
+      <identifier>2011</identifier>
+      <title>If It Hadn't Been For Love (Bonus Track)</title>
+      <creator>Adele</creator>
+      <annotation/>
+      <album>21</album>
+      <meta rel="Genre">Pop</meta>
+      <extension application="Track">16/17</extension>
+    </track>
+    <track>
+      <location>C:\adele\Adele - 21\17 Hiding My Heart.mp3</location>
+      <identifier>2011</identifier>
+      <title>Hiding My Heart (Bonus Track)</title>
+      <creator>Adele</creator>
+      <annotation/>
+      <album>21</album>
+      <meta rel="Genre">Pop</meta>
+      <extension application="Track">17/17</extension>
+    </track>
+  </trackList>
+</playlist>

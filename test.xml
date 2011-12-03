@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<playlist xmlns="http://xspf.org/ns/0/" version="">
+  <title>Playlist de C:/Users/leofaster/Downloads</title>
+  <date>2011-12-03T15:22:42.616</date>
+  <trackList>
+    <track>
+      <location>C:\Users\leofaster\Downloads\Foreseen - Hardstyle Megamix.mp3</location>
+      <title/>
+      <creator/>
+      <annotation/>
+      <album/>
+    </track>
+    <track>
+      <location>C:\Users\leofaster\Downloads\Philizz VIDEO YEARMIX 2011.mp3</location>
+      <title/>
+      <creator/>
+      <annotation/>
+      <album/>
+    </track>
+  </trackList>
+</playlist>

@@ -8,6 +8,9 @@ import corejava.Console;
 import java.util.StringTokenizer;
 import nanoxml.XMLElement;
 import java.io.*;
+import java.net.Socket;
+import java.net.UnknownHostException;
+import java.util.List;
 
 /**
  *
@@ -18,7 +21,9 @@ public class Redesp2 {
     /**
      * @param args the command line arguments
      */
-    public static void main(String[] args)  throws Exception {
+    
+
+    public static void main(String[] args) throws Exception {
         boolean salida = false;
 
         //int i = 0;
@@ -78,18 +83,18 @@ public class Redesp2 {
                 comp = st2.nextToken();
                 if (comp.equals("-a") | comp.equals("-A")) {
                     busqueda = st2.nextToken();
-                
-                while (st2.hasMoreTokens()) {
-                    busqueda = busqueda + " " +st2.nextToken();
-                    
-                }
-                System.out.println("buscaremos el autor " + busqueda);
+
+                    while (st2.hasMoreTokens()) {
+                        busqueda = busqueda + " " + st2.nextToken();
+
+                    }
+                    System.out.println("buscaremos el autor " + busqueda);
                 }
                 if (comp.equals("-t") | comp.equals("-T")) {
                     busqueda1 = st2.nextToken();
                     while (st2.hasMoreTokens()) {
                         busqueda1 = busqueda1 + " " + st2.nextToken();
-                       
+
                     }
                     System.out.println("buscaremos el titulo " + busqueda1);
                 }
@@ -103,30 +108,29 @@ public class Redesp2 {
 
             }
             if (comp.equals("A") | comp.equals("a")) {
-                System.out.println("Entro en a");
-            XMLElement xml = new XMLElement();
-            FileReader reader = new FileReader("test.xml");
-	    xml.parseFromReader(reader);
-            System.out.println(xml);
+
+
+
+
+                if (comp.equals("Q") | comp.equals("q")) {
+                    System.out.println("Entro en q");
+
+                    salida = true;
+                    //  }   
+
+
+                }
+
+
+
+
+
+
+
+
             }
-            if (comp.equals("Q") | comp.equals("q")) {
-                System.out.println("Entro en q");
-
-                salida = true;
-                //  }   
-
-
-            }
-
-
-
-
-
-
 
 
         }
-
-
     }
 }
